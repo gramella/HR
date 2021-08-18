@@ -1,7 +1,7 @@
 DATASETS AND RESULTS of the paper "Hair Removal combining Saliency, Shape and Color"
 
-The available material is constituted by datasets and results of the paper 
-"Hair Removal combining Saliency, Shape and Color",https://doi.org/10.3390/app11010447.
+The available material is constituted by datasets and results of the paper:
+Ramella, G. Hair Removal combining Saliency, Shape and Color, Applied Sciences, vol. 11, n. 1, 2021.
 
 This material is intended for supporting the possibility 
 of comparison by other authors. 
@@ -20,8 +20,8 @@ or implied warranty.
 In case of publishing results obtained utilizing this material please refer 
 to the following paper:
 
-G. Ramella, "Hair Removal combining Saliency, Shape and Color",
-Applied Sciences, 11 (1), pp. 447-474, 2021
+Ramella, G. Hair Removal combining Saliency, Shape and Color,
+Applied Sciences, vol. 11, n. 1, pp. 447-474, 2021.
 
 For more detail regarding the available material, 
 please refer to the file named "Material_description.pdf".
